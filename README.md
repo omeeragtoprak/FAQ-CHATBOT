@@ -8,7 +8,9 @@ Bu proje, Garanti BBVA ile ilgili sıkça sorulan sorulara (SSS) otomatik olarak
 - Web arayüzü ile kolay kullanım
 - Python ile geliştirilmiş backend
 - Kolayca özelleştirilebilir ve genişletilebilir yapı
-![Uploading image.png…]()
+
+
+![Ekran görüntüsü 2025-06-10 132733](https://github.com/user-attachments/assets/1ed1c4bf-97c1-4399-8a8c-0dd9165b14f1)
 
 
 ## Kurulum
