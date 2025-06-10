@@ -8,6 +8,8 @@ Bu proje, Garanti BBVA ile ilgili sıkça sorulan sorulara (SSS) otomatik olarak
 - Web arayüzü ile kolay kullanım
 - Python ile geliştirilmiş backend
 - Kolayca özelleştirilebilir ve genişletilebilir yapı
+![Uploading image.png…]()
+
 
 ## Kurulum
 1. Bu projeyi kendi bilgisayarınıza klonlayın:
