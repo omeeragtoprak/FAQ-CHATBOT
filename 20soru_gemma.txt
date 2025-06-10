@@ -1,0 +1,242 @@
+Soru: Vodafone hattımın faturası ne kadar oldu?
+Beklenen Cevap: Garanti BBVA İnternet Bankacılığı ve Garanti BBVA Mobil fatura adımlarında Vodafone fatura borcunuzun ne kadar olduğunu öğrenebilirsiniz.
+Model Cevabı: Garanti BBVA İnternet Bankacılığı veya Garanti BBVA Mobil fatura adımlarında Vodafone fatura borcunuzun ne kadar olduğunu öğrenebilirsiniz.  
+
+Benzerlik: 0.99
+
+Soru: Hafta sonları para transferi yapma şansım var mı?
+Beklenen Cevap: EFT sistemi mevcut işlem saatleri devam etmektedir. FAST sistemi aracılığıyla, 100.000 TL ve altındaki para transferleriniz 7 gün 24 saat yapılabilecektir.
+Model Cevabı: Evet, FAST sistemi aracılığıyla 100.000 TL ve altındaki para transferlerinizi 7 gün 24 saat yapabilirsiniz.  
+
+
+
+Benzerlik: 0.81
+
+Soru: Vadesi dolmamış birikim hesabımdan para alabilir miyim?
+Beklenen Cevap: Standart vadeli mevduat hesabından, tüm vadeler için, vade süresince kısmi para çekimi yapılabilmektedir. Bu durumda çekilen tutarın faizi iptal olmaktadır. Buna karşılık hesapta kalan tutar aynı valör, vade ve faiz oranı ile devam eder. Standart vadeli hesabınızda en az hesap açma alt limiti kadar para kalmalıdır. Bu tutarın altına inilmesinin söz konusu olduğu durumda, hesabınızdaki tüm parayı çekmeniz gerekmektedir.
+Model Cevabı: Evet, Biriktiren Hesabı’nızdan istediğiniz zaman para çekebilirsiniz fakat para çektiğinizde hesabınız kapanır ve faiz hakkınızı kaybedersiniz.  
+
+ 
+
+Benzerlik: 0.79
+
+Soru: HGS etiketi nasıl ve hangi yerlerden temin edebilirim?
+Beklenen Cevap: HGS ürünü için ise başvurularınızı;
+
+
+Garanti BBVA İnternet Bankacılığı’nda Başvurular menüsü HGS adımı
+
+
+Garanti BBVA Mobil’de Başvurular menüsü HGS Başvurusu adımı ya da
+
+
+Garanti BBVA Müşteri İletişim Merkezi’nden
+
+
+Garanti BBVA şubelerinden yapabilirsiniz.
+Model Cevabı: HGS etiketini Garanti BBVA şubelerimizden, Garanti BBVA Mobil uygulaması üzerinden veya Garanti BBVA İnternet Bankacılığı'ndan temin edebilirsiniz.  
+
+
+
+Benzerlik: 0.88
+
+Soru: Banka şubesine uğramadan kredi başvurusu yapmanın yolu nedir?
+Beklenen Cevap: Garanti BBVA İnternet Bankacılığı Başvurular menüsü Kredi adımı İhtiyaç Kredisi seçeneğinden kredi başvurusunda bulunabilir , değerlendirme sonucunuzu anında öğrenebilirsiniz. Değerlendirme sonrasında başvurunuzun onaylanması durumunda kredi tutarınız şubeye gitmenize gerek kalmadan hesabınıza aktarılacaktır.
+Model Cevabı: Garanti BBVA İnternet Bankacılığı'nı kullanarak "Başvurular" menüsünden "Kredi" seçeneğini seçerek bir kredi başvurusu yapabilirsiniz. Değerlendirme sonucunu anında öğrenebilir ve onaylanırsa, tutar şubeye gitmenize gerek kalmadan hesabınıza aktarılacaktır. 
+
+
+
+Benzerlik: 0.95
+
+Soru: Garanti BBVA mobil uygulama şifremi hatırlamıyorum, ne yapmalıyım?
+Beklenen Cevap: Garanti BBVA İnternet Bankacılığı kullanıcısıysanız, Garanti BBVA İnternet Bankacılığı parolanızla Garanti BBVA Mobil’i kullanabilirsiniz. Eğer Garanti BBVA İnternet Bankacılığı kullanıcısı değilseniz, Parola Al adımından parolanızı anında alıp Garanti BBVA Mobil’i kullanmaya hemen başlayabilirsiniz.
+Parolanızı unutursanız, sahip olduğunuz geçerli bir Garanti BBVA kredi kartı veya Paracard numaranız ve bunların şifresi ile Parola Al adımından parolanızı hemen alabilirsiniz.
+Garanti BBVA kartınız yoksa yine Parola Al adımından size uyan yönlendirmeleri takip ederek parolanızı almak için başvuru yapabilirsiniz.
+Model Cevabı: Garanti BBVA İnternet Bankacılığı kullanıcısıysanız, Garanti BBVA İnternet Bankacılığı parolanızla Garanti BBVA Mobil’i kullanabilirsiniz. Eğer Garanti BBVA İnternet Bankacılığı kullanıcısı değilseniz, Parola Al adımından parolanızı anında alıp Garanti BBVA Mobil’i kullanmaya hemen başlayabilirsiniz. 
+
+Parolanızı unutursanız, sahip olduğunuz geçerli bir Garanti BBVA kredi kartı veya Paracard numaranız ve bunların şifresi ile Parola Al adımından parolanızı hemen alabilirsiniz.
+Garanti BBVA kartınız yoksa yine Parola Al adımından size uyan yönlendirmeleri takip ederek parolanızı almak için başvuru yapabilirsiniz. 
+
+
+
+Benzerlik: 1.00
+
+Soru: Yıllık eğitim maliyetindeki artış, sigorta teminatımı etkiler mi?
+Beklenen Cevap: Hayır, sigortanın başlangıcında belirlenen teminat tutarları değiştirilememektedir. Eğitim masraflarının artması durumunda yeni bir Eğitim Sigortası yaptırarak çocuğunuzun teminat dışında kalan eğitim giderlerini de güvence altına alabilirsiniz.
+Model Cevabı: Hayır, sigortanın başlangıcında belirlenen teminat tutarları değiştirilememektedir. Eğitim masraflarının artması durumunda yeni bir Eğitim Sigortası yaptırarak çocuğunuzun teminat dışında kalan eğitim giderlerini de güvence altına alabilirsiniz.  
+
+Benzerlik: 1.00
+
+Soru: Kredi notum düşük, bunu nasıl yükseltebilirim?
+Beklenen Cevap: Kredi notu yükseltme yöntemlerinin en önemlisi kredi kartı ve kredi gibi bankalara ait kredili ürün ödemelerini düzenli bir şekilde yapmaktır. Ödemelerinizi zamanında yapamama riski ile karşı karşıya kaldığınız durumlarda kredi notunuzu yükseltmek için kredi ödemelerinizi bütçenize göre yapılandırabilir veya borçlarınızı tek bir kredide birleştirebilirsiniz. Ayrıca kredi kartınızın asgari ödemesinin son ödeme tarihini geçirmeden yapmaya özen göstermeniz kredi notunuzun düşmesinin de önüne geçecektir.
+Kredi skorunun yükseltmenin yollarından bir tanesi de Anahtar Kart Programı’na dahil olmaktır. Anahtar Kart Programı, Garanti BBVA kredi kartlarının fırsatlarla dolu dünyasına giriş anahtarıdır. Anahtar Kart Programı'ndan faydalanmak için tek yapmanız gereken, 700 TL'den başlayan teminat tutarını hesabınızda bulundurmanız. Sonrasında hesabınızdaki teminat tutarına bloke koyularak kartınızın başvurusu onaylanacaktır.
+Anahtar Kart Programı'nda seçeceğiniz Garanti BBVA bireysel kredi kartlarından bir tanesi olabilir. Anahtar Kart Programı’na dahil olmanız durumunda ödemeleriniz her 6 ayda bir değerlendirilir. Bankamızda kullandığınız diğer ürünler için de geçerli olmak üzere; ödemelerinizi düzenli yapmanız durumunda kredi skorunuzu yükseltirsiniz. Değerlendirme sonucunda, uygun bulunursa kartınıza bağlı teminat kaldırılacak ve kartınızı herhangi bir teminata bağlı olmadan kullanabileceksiniz.
+Model Cevabı: Kredi notunuzu yükseltmek için en önemli yöntem kredi kartı ve kredi gibi bankalara ait kredili ürün ödemelerini düzenli bir şekilde yapmaktır. Ödemelerinizi zamanında yapamama riski ile karşı karşıya kaldığınız durumlarda kredi notunuzu yükseltmek için kredi ödemelerinizi bütçenize göre yapılandırabilir veya borçlarınızı tek bir kredide birleştirebilirsiniz. Ayrıca kredi kartınızın asgari ödemesinin son ödeme tarihini geçirmeden yapmaya özen göstermeniz kredi notunuzun düşmesinin de önüne geçecektir. 
+
+
+Anahtar Kart Programı'na dahil olmaktan da faydalanabilirsiniz. Bu program, Garanti BBVA kredi kartlarına erişim sağlar ve ödemelerinizi düzenli yapmanız durumunda kredi skorunuzu yükseltebilir.
+
+Benzerlik: 0.98
+
+Soru: Cep telefonuyla kredi başvurusunda bulunabilir miyim?
+Beklenen Cevap: 444 0 335 Garanti BBVA Anında Kredi Hattı ile müşterilerimizin sadece bir telefon uzağındayız!
+Çalışan, esnaf, emekli tüm bireysel müşterilerimiz bireysel kredi ve kredili mevduat hesabı hakkındaki işlemleriniz için bize bu hat üzerinden ulaşabilirsiniz.
+Şubeye gitmeye vaktiniz yok, ancak nakit ihtiyacınız varsa  ihtiyaç kredisi ve kredili mevduat hesabı talepleriniz için Garanti BBVA Anında Kredi Hattı’nı (444 0 335) arayarak kredili ürün başvurusunda bulunabilir, sadece telefon aracılığı ile işlemlerinizi tamamlayabilir ve hesabınıza ihtiyacınız olan tutarın anlık aktarımını sağlayabilirsiniz.
+Kredi veya Kredili Mevduat Hesabı başvurunuz için her zaman Garanti BBVA Anında Kredi Hattı’na 444 0 335’i tuşlayarak ulaşabilirsiniz.
+Garanti BBVA olarak müşterilerimizin kredilerini kullandıktan sonra da her zaman yanındayız. Her türlü yenilik ve gelişmede müşterilerimizin ihtiyaçlarına uygun ve dönemsel taleplerini karşılayacak hizmetleri bu hat aracılığıyla müşterilerimize sunuyoruz.
+Garanti BBVA Anında Kredi Hattı’nı aradığınızda, size sunulan tuşlamalarla doğrudan kredi veya kredili mevduat hesabı hakkında ilgili müşteri temsilcisine kolayca bağlanabilirsiniz.
+444 0 335 Garanti BBVA Anında Kredi Hattı’ndan başvurularınızdan önceki, başvurularınız sırasındaki ya da sonrasındaki sorularınız için destek alabilirsiniz.
+Garanti BBVA Anında Kredi Hattı’ndan sadece yeni başvurular için değil mevcuttaki ihtiyaç kredilerinizin yapılandırma işlemlerini de gerçekleştirebilirsiniz.
+Model Cevabı: Hayır, şu anda cep telefonu aracılığıyla kredi başvuru yapamazsınız. Garanti BBVA Anında Kredi Hattı'nı arayarak (444 0 335) kredi başvurusunda bulunabilirsiniz.  
+
+
+
+Benzerlik: 0.83
+
+Soru: Cepbank işlemleri iptal oluyo mu?
+Beklenen Cevap: Evet. CepBank işleminizi gerçekleştirdikten sonra, para gönderdiğiniz kişi gönderilen parayı çekmediği sürece, İnternet Şubesi’nden CepBank menüsüne girerek veya cep telefonunuza "IPTAL’’ yazdıktan sonra SMS’le size gönderilen referans numaranızı yazıp 3333’e göndererek işlemi iptal edebilirsiniz. Gönderdiğiniz para çekilmiş ise işlemi iptal edemezsiniz.
+Ayrıca dilediğiniz zaman para gönderdiğiniz kişiye henüz para çekim işlemini gerçekleştirmediği bilgisini verebilirsiniz.
+Model Cevabı: Evet, CepBank işleminizi gerçekleştirdikten sonra, para gönderdiğiniz kişi gönderilen parayı çekmediği sürece, İnternet Şubesi’nden CepBank menüsüne girerek veya cep telefonunuza "IPTAL’’ yazdıktan sonra SMS’le size gönderilen referans numaranızı yazıp 3333’e göndererek işlemi iptal edebilirsiniz. Gönderdiğiniz para çekilmiş ise işlemi iptal edemezsiniz. Ayrıca, gönderilen tutar 7 gün boyunca çekilmediği takdirde işlem kendiliğinden iptal olur ve tutar hesabınıza otomatik olarak geri gönderilir.  
+
+Benzerlik: 0.98
+
+Soru: Garantili Gelecek Hesabı hakkında bilgi verebilir misiniz? Bu hesabın sunduğu avantajlar ve özellikler nelerdir?
+Beklenen Cevap: Garantili Gelecek Hesabı, düzenli birikim yapmanıza olanak sağlayan ve birikimlerinizi enflasyon karşısında koruyan bir hesap türüdür. Garantili Gelecek Hesabı ile, her ay düzenli olarak belirlediğiniz tutarda birikim yapabilir ve bu birikimlerinizin enflasyon karşısında erimemesini sağlayabilirsiniz. Hesabınıza düzenli ödeme talimatı vererek her ay belirlediğiniz tutar kadar birikim yapabilirsiniz. Bu birikimleriniz, enflasyon oranına göre güncellenir ve böylece enflasyon karşısında değer kaybetmez.
+Model Cevabı: Garantili Gelecek Hesabı ile küçük birikimlerle çocuğunuzun yarınlarını Garanti BBVA’ya almanız mümkün. 
+
+Bu hesabla;
+
+* Aylık 100 TL ve üzeri olmak üzere istediğiniz tutarda düzenli birikim yapabilirsiniz.
+*  Garanti BBVA kredi kartınızdan veya vadesiz TL hesabınızdan düzenli ödeme yapabilirsiniz.
+* Hesabınızı, en yakın Garanti BBVA şubesinden kendi veya çocuğunuz adına açtırabilirsiniz.
+
+İhtiyacınız olduğunda birikiminizi kolayca çekebilirsiniz. Birikimleriniz tahvil, bono ve kısıtlı ölçüde hisse senedine yatırım yapan Flexi B Tipi Değişken Fon ile değerlendirilir. 
+
+
+
+Benzerlik: 0.73
+
+Soru: Vadeli hesaplardan vade süresi dolmadan para çekilebilir mi?
+Beklenen Cevap: Standart vadeli mevduat hesabından, tüm vadeler için, vade süresince kısmi para çekimi yapılabilmektedir. Bu durumda çekilen tutarın faizi iptal olmaktadır. Buna karşılık hesapta kalan tutar aynı valör, vade ve faiz oranı ile devam eder. Standart vadeli hesabınızda en az hesap açma alt limiti kadar para kalmalıdır. Bu tutarın altına inilmesinin söz konusu olduğu durumda, hesabınızdaki tüm parayı çekmeniz gerekmektedir.
+Model Cevabı: Evet, standart vadeli mevduat hesabından tüm vadeler için vade süresince kısmi para çekimi yapılabilir. Ancak çekilen tutarın faizi iptal olur ve hesapta kalan bakiyeye aynı valör, vade ve faiz oranı ile devam edilir. Vadeli hesaptan para çekme işlemlerinde hesapta kalan tutarın en az hesap açma alt limiti kadar olmasına dikkat edilmelidir.  
+
+Benzerlik: 0.97
+
+Soru: Vadeli mevduat hesabını kapatmak için hangi adımları izlemeliyim?
+Beklenen Cevap: Vadeli mevduat hesabınızı kapatmak için, hesabınızın bulunduğu bankanın şubesine giderek ya da internet bankacılığı ve mobil bankacılık gibi dijital kanallar aracılığıyla başvuruda bulunabilirsiniz. Vadeli mevduat hesabınızı kapatmak istediğinizde, hesabınızdaki tüm parayı çekmek isteyip istemediğinizi belirtmeniz gerekmektedir. Ayrıca, vadeli mevduat hesabınızı kapatmadan önce bankanızın vadeli mevduat hesap kapatma politikalarını ve şartlarını öğrenmek önemlidir. Bazı bankalar, vadeli mevduat hesabınızı kapatırken belirli bir sürenin geçmesi gerektiğini veya belirli bir miktar ceza ödemesi yapmanız gerektiğini belirtebilir.
+Model Cevabı: Vadeli hesabınızı kapatmak için, hesap açtığınız şekilde işlemlerinizi gerçekleştirmeniz gerekiyor. 30.000 TL ve karşılığındaki yabancı mevduata sahip hesaplarınız Garanti BBVA İnternet üzerinden kapatılabilir. 30.000 TL ve üstünde mevduata sahip hesaplarınız için ise şubenizden işlem yapmanız gerekir.  Vade süresi dolmadan hesabı kapattığınızda, son vade döneminde uygulanan faizden yararlanmanız mümkün değildir.
+
+Benzerlik: 0.85
+
+Soru: Vadeli hesap açılışı ve faiz oranları hakkında bilgi alabilir miyim?
+Beklenen Cevap: Vadeli hesap açılışı ve faiz oranları bankadan bankaya farklılık gösterebilir. Genellikle bankaların internet bankacılığı veya mobil bankacılık uygulamaları üzerinden vadeli hesap açılışı yapabilirsiniz. Faiz oranları ise belirlenen vadeye göre değişkenlik gösterir. Bankaların sunduğu faiz oranlarını karşılaştırarak size en uygun vadeli hesap seçeneğini bulabilirsiniz.
+Model Cevabı: Vadeli Hesap nasıl açtırabilirsiniz ve faiz oranları hakkında detaylı bilgi aşağıdaki bağlantılarda bulabilirsiniz: 
+
+url 
+
+
+ url  
+
+Benzerlik: 0.57
+
+Soru: Vadeli hesaba vade süresi içinde para eklenebilir mi?
+Beklenen Cevap: Vadeli hesaplarda vade süresi içinde genellikle para eklenemez. Ancak, bazı bankalar belirli şartlar altında vadeli hesaplara vade süresi içinde para ekleme imkanı sunabilir. Bu şartlar bankadan bankaya değişebilir, bu nedenle bankanızın vadeli hesap politikalarını öğrenmek önemlidir.
+Model Cevabı: Vadeli hesaba dilediğiniz zaman para yatırabilirsiniz ancak bu işlem hesabınızın vadesinin bozulmasına yol açar.  Vadeli hesabınıza vade sonu dışında herhangi bir tarihte para yatırmanız son dönemde tahakkuk etmiş faizin kaybına yol açar. Vadeli hesabınıza vade sonunda para yatırmanız durumunda yatırdığınız paraya bir iş günü sonra faiz işletilmeye başlanır. 
+
+
+
+Benzerlik: 0.79
+
+Soru: Biriktiren Hesap'ın detayları ve avantajları nelerdir?
+Beklenen Cevap: Biriktiren Hesap, düzenli birikim yapmanıza olanak sağlayan ve birikimlerinizi belirli bir faiz oranı ile değerlendiren bir hesap türüdür. Biriktiren Hesap ile, her ay düzenli olarak belirlediğiniz tutarda birikim yapabilir ve bu birikimlerinizi belirli bir faiz oranı ile değerlendirebilirsiniz. Ayrıca, Biriktiren Hesap'ta biriken paranızı istediğiniz zaman çekme imkanına sahipsiniz.
+Model Cevabı: ## Biriktiren Hesap Detayları & Avantajları
+
+**Biriktiren Hesap**, düzenli birikimlerinizi en uygun faizlerle 10 yıla kadar vadelerde değerlendiren vadeli mevduat hesabıdır.  
+
+**Özellikleri:**
+
+* **Para birimi seçenekleri:** TL, USD veya Euro cinsinden açılabilir.
+* **Minimum ödeme tutarı:** Aylık 50 TL, 50 USD veya 50 Euro'dur.
+* **Vade süreleri:**
+    * TL: 5 yıl
+    * USD ve Euro: 5 veya 10 yıl seçenekleri mevcuttur.
+* **Açılış ve İşlem Kolaylığı:** Garanti BBVA Mobil, İnternet Bankacılığı veya şubelerimiz aracılığıyla açılabilir ve işlemleri yapılabilir.
+
+**Avantajları:**
+
+* **Yüksek Faiz Oranları:** Biriktiren Hesaplar diğer mevduat hesaplarına göre daha yüksek faiz oranları sunar.
+* **Uzun Vadeli Yatırım:** 5-10 yıl boyunca birikimlerinizi sabit bir oranda değerlendirerek uzun vadeli hedefleriniz için tasarruf yapabilirsiniz.
+* **Yatırım Güvenliği:** Garanti BBVA'nın güvenilir yapısı ve mevduat sigorta kapsamı ile yatırımınızın güvenliğini sağlar.
+
+**Önemli Notlar:**
+
+* Biriktiren Hesaplarda erken çekim durumunda faiz oranları değişebilir veya yasal düzenlemelere göre cezai faiz uygulanabilir.
+* Detaylı bilgi ve güncel faiz oranları için Garanti BBVA'nın resmi web sitesini veya müşteri hizmetlerini ziyaret edin.
+
+**Biriktiren Hesap, uzun vadeli yatırım hedeflerinize ulaşmak için güvenilir ve avantajlı bir seçenektir.**
+
+
+
+
+Benzerlik: 0.75
+
+Soru: Biriktiren Hesaba ödeme yöntemleri nelerdir?
+Beklenen Cevap: Biriktiren Hesap’a ödeme yapmak için banka şubeleri, internet bankacılığı veya mobil bankacılık gibi çeşitli yöntemler kullanabilirsiniz. Ayrıca, Biriktiren Hesap’a düzenli ödeme talimatı vererek her ay belirlediğiniz tutarda otomatik olarak para yatırılmasını sağlayabilirsiniz.
+Model Cevabı: Biriktiren Hesabıma ödemelerimi Vadesiz TL/USD/Euro hesabınızdan veya herhangi bir faiz yada ücret ödemeden Garanti BBVA kredi kartınızdan yapabilirsiniz. 
+
+
+
+Benzerlik: 0.73
+
+Soru: Biriktiren Hesaptan sınırsız para çekimi yapılabilir mi?
+Beklenen Cevap: Biriktiren Hesap'tan sınırsız para çekimi yapılabilir. Ancak, hesabınızda belirli bir bakiye kalmasını sağlamak önemlidir. Biriktiren Hesap'ta biriken paranızı istediğiniz zaman çekme imkanına sahipsiniz.
+Model Cevabı: Evet, Biriktiren Hesabı’nızdan istediğiniz zaman para çekebilirsiniz fakat para çektiğinizde hesabınız kapanır ve faiz hakkınızı kaybedersiniz. 
+
+
+
+Benzerlik: 0.80
+
+Soru: Vadesiz Altın Hesabı'nın avantajları ve özellikleri hakkında bilgi verir misiniz?
+Beklenen Cevap: Vadesiz Altın Hesabı, altın birikimlerinizi güvenli bir şekilde saklamanızı ve değerlendirmenizi sağlayan bir hesap türüdür. Vadesiz Altın Hesabı ile, altın birikimlerinizi banka güvencesi altında saklayabilir ve altınlarınızı dilediğiniz zaman alım satım yaparak değerlendirebilirsiniz. Ayrıca, Vadesiz Altın Hesabı'nda altınlarınızın değeri güncel piyasa fiyatlarına göre belirlenir ve altın fiyatlarındaki değişimlerden yararlanabilirsiniz.
+Model Cevabı: ## Vadesiz Altın Hesabı Avantajları ve Özellikleri
+
+Vadesiz Altın Hesabı, güvenli bir şekilde gram bazında altın almanızı sağlayan vadesiz altın depo hesabıdır.  Bu hesapla altın alım-satım işlemlerinizi kolayca TL veya USD hesaplarınız aracılığıyla gerçekleştirebilirsiniz. 
+
+**Özellikler:**
+
+* **Hızlı ve Kolay Açma:** Vadesiz Altın Hesabı'nı İnternet Şubesi üzerinden "Hesap Açılışları" bölümünden veya Garanti BBVA Müşteri İletişim Merkezi (444 0 333) aracılığıyla açabilirsiniz.
+* **Gram Bazında İşlem:**  Vadesiz Altın Hesabı ile TL veya USD karşılığı gram bazında altın alım ve satımları yapabilirsiniz.
+* **Düşük Limitler:** Minimum 1 gram ile işlem başlatabilirsiniz. Maksimum işlem limiti ise 3000 gram'dır.
+* **Altın Havalesi:**  Hesabınızdan diğer tüm Altın Hesaplarına (Vadesiz veya Birikimli) gram bazında altın havale yapabilirsiniz.
+
+**Avantajlar:**
+
+* **Gramaj ve Ayar Özgürlüğü:** Vadesiz Altın Hesabı ile düşük gramajlı altına sahip olabilirsiniz. Düşük ayarlı ya da eski tarihli altınlarla karşılaşma riskiniz olmaz.
+* **İşçilik Maliyetsiz:** İşçilik maliyeti ödemeden direkt olarak altın alım ve satımı yapabilirsiniz.
+* **Güvenli Birikim:**  Çalınma riski olmadan güvenle altına yatırım yapabilirsiniz.
+* **Kolay Ulaşım:** Vadesiz Altın Hesabınıza Garanti BBVA Mobil uygulaması, İnternet Bankacılığı veya müşteri hizmetleri aracılığıyla 7/24 erişebilirsiniz.
+
+
+Vadesiz Altın Hesabı ile altın değerine güvenerek yatırım yapabilir, paranızı koruyabilir ve potansiyel kazanç elde edebilirsiniz.
+
+Benzerlik: 0.84
+
+Soru: Vadesiz Altın Hesabı açma işlemleri nelerdir?
+Beklenen Cevap: Vadesiz Altın Hesabı açmak için banka şubelerine giderek veya internet bankacılığı ve mobil bankacılık gibi dijital kanallar aracılığıyla başvuruda bulunabilirsiniz. Vadesiz Altın Hesabı açılışı için genellikle kimlik belgeleri ve adres bilgileri gereklidir. Ayrıca, bankaların altın hesap politikalarını öğrenmek ve gerekli belgeleri temin etmek önemlidir.
+Model Cevabı: Verdiğiniz örneklerden yola çıkarak, kullanıcı sorusuna şu şekilde cevap verebilirim:
+
+**Vadesiz Altın Hesabı açmak için Garanti BBVA şubelerine başvurmanız, Garanti BBVA İnternet Bankacılığı'nı kullanarak veya 444 0 333 numaralı Müşteri İletişim Merkezi'nden işlem yapmanız gerekebilir.**  
+
+Açıklamalarınızda belirtildiği üzere;
+
+* **Şubeler:** Banka şubesine giderek Vadesiz Altın Hesabı açabilirsiniz.
+* **Garanti BBVA İnternet Bankacılığı:** Garanti BBVA İnternet Bankacılığı üzerinden de hesabınızı açmanız mümkün olabilir. 
+
+* **Müşteri İletişim Merkezi:**  444 0 333 numaralı Müşteri İletişim Merkezi'ni arayarak Vadesiz Altın Hesabı açma işlemleri hakkında bilgi alabilirsiniz ve telefon görüşmesi üzerinden işlem gerçekleştirebilirsiniz.
+
+
+Ancak, belirli bir talep üzerine sunulan bir hizmet olduğu için, en kesin bilgiyi Garanti BBVA müşteri hizmetleri veya web sitesinden almanız önerilir. 
+
+Benzerlik: 0.79
+
+Başarı Oranı: 95.00%

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garanti BBVA Asistan</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <img src="{{ url_for('static', filename='logo.png') }}" alt="Garanti BBVA Logo" class="logo">
+            <h1>Asistan</h1>
+        </header>
+        <nav>
+            <button class="nav-button active" data-target="chat">Sohbet</button>
+            <button class="nav-button" data-target="faq">Sıkça Sorulan Sorular</button>
+        </nav>
+        <main>
+            <section id="chat" class="active">
+                <div class="chat-container">
+                    <div class="chat-messages" id="chat-messages">
+                        <div class="message bot">
+                            <div class="avatar"><i class="fas fa-robot"></i></div>
+                            <div class="content">Merhaba! Size nasıl yardımcı olabilirim?</div>
+                        </div>
+                    </div>
+                    <div class="chat-input-container">
+                        <textarea id="user-input" placeholder="Mesajınızı yazın..." rows="1"></textarea>
+                        <button id="send-button">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                </div>
+            </section>
+            <section id="faq">
+                <h2>Sıkça Sorulan Sorular</h2>
+                <div class="faq-list" id="faq-list">
+                    <!-- FAQ items will be dynamically added here -->
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

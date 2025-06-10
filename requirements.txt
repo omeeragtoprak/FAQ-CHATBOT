@@ -1,0 +1,7 @@
+flask
+sentence-transformers
+scikit-learn
+numpy
+ollama
+requests
+beautifulsoup4 
